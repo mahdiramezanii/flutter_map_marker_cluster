@@ -14,11 +14,11 @@ dependencies:
     sdk: flutter
   flutter_map:
     git:
-      url: https://github.com/fleaflet/flutter_map.git
+      url: https://github.com/mahdiramezanii/flutter_map.git
       ref: master
   flutter_map_marker_popup:
     git:
-      url: https://github.com/enricostrijks/flutter_map_marker_popup.git
+      url: https://github.com/mahdiramezanii/flutter_map_marker_popup.git
       ref: master
   latlong2: ^0.9.0
 
